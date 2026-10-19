@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#Projects {
+  background-color: #e2edff;
+}
+
+.card-img-top {
+  height: 200px; /* Angka ini bisa lo ubah sesuai selera, misal 250px atau 300px */
+  object-fit: cover; /* Ini yang bikin foto nggak gepeng */
+}
+
+section {
+  padding-top: 5rem;
+}
